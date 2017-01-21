@@ -1,4 +1,4 @@
-# Windows10 AppRemover
+# Windows10 App Remover
 This is a quick PowerShell script that attempts to remove the Default Windows 10 Applications and its associated packages.
 
 This script was developed on Windows 10 Pro x64 (64-bit), if you have any issues using this with Windows 10 Home - then please let me know!

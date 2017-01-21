@@ -3,7 +3,9 @@ This is a quick PowerShell script that attempts to remove the Default Windows 10
 
 This script was developed on Windows 10 Pro x64 (64-bit). If you have any issues using this with Windows 10 Home - then please let me know!
 
-__Note__: Please understand that there is __NO UNDO__ after running this script. I recommend only running this script on a fresh install (including upgrades). It's possible that these scripts can cease to function after certain updates, so please post a pull request if you have an issue/fix.
+__Note__: Please understand that there is __NO UNDO__ after running this script. I recommend only running this script on a fresh install (including upgrades). 
+
+It's possible that these scripts can cease to function after certain updates, so please post a pull request if you have an issue/fix.
 
 ## Usage:
 
@@ -38,6 +40,7 @@ PS C:\Users\Cryogenix\Desktop> .\remove-default.ps1
 ```
 
 Once completed, set PowerShell Execution Policy to Restricted.
+
 This is to prevent any execution of accidental/malicious PS Scripts
 
 ```

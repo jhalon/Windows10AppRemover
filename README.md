@@ -16,7 +16,7 @@ __Note__: Please understand that there is __NO UNDO__ after running this script.
 
 Start Powershell in Elevated Mode
 
-__Start > Powershell > Right-CLick > Run As Administrator__
+__Start > Powershell > Right-Click > Run As Administrator__
 
 Enable Execution of PowerShell Scripts:
 
